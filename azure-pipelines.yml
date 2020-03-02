@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  name: 'azure-private'
+  name: 'private-azure'
   demands:
     - npm
 
